@@ -1,2 +1,5 @@
 Some text
-lol kek from <master> - new changes!!
+lol kek from <master>
+lol kek <first>
+
+Text from master: new changes!!
